@@ -1,0 +1,5 @@
+/Users/josh/Projects/fullmoon-msn-server/fullmoon-msn-server/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/josh/Projects/fullmoon-msn-server/fullmoon-msn-server/bin/Debug/fullmoon-msn-server.exe.mdb
+/Users/josh/Projects/fullmoon-msn-server/fullmoon-msn-server/bin/Debug/fullmoon-msn-server.exe
+/Users/josh/Projects/fullmoon-msn-server/fullmoon-msn-server/obj/x86/Debug/fullmoon-msn-server.exe
+/Users/josh/Projects/fullmoon-msn-server/fullmoon-msn-server/obj/x86/Debug/fullmoon-msn-server.exe.mdb
